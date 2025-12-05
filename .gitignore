@@ -37,3 +37,12 @@ build/
 
 ### Mac OS ###
 .DS_Store
+.idea/
+*.class
+*.log
+*.jar
+*.war
+*.zip
+
+# OS-specific
+Thumbs.db
